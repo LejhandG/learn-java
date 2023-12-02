@@ -46,4 +46,4 @@ int preFix = 10;
 int postFix = 10;
 System.out.print("Prefix is: " + ++preFix + " Post fix is: " + postFix++);
 //Here it will print Prefix is: 11 Post fix is: 10
-//Because in prefix value is added instantly and in postfix it is added displayed the next time the variable is used
+//Because in prefix value is added instantly and in postfix it is added displayed the next time the variable is used.
