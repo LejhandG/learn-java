@@ -12,7 +12,17 @@ double
 char
 //YES/NO
 boolean
-
+/*
++-----------+------------------+-------------+------------+
+| Data Type | Width (in bytes) | Min Value   | Max Value  |
++-----------+------------------+-------------+------------+
+| byte      | 8                | -128        | 127        |
++-----------+------------------+-------------+------------+
+| short     | 16               | -32768      | 32767      |
++-----------+------------------+-------------+------------+
+| int       | 32               | -2147483648 | 2147483647 |
++-----------+------------------+-------------+------------+
+*/
 //Also to print a variable value along with a simple text use the + sign
 //+ sign is used to join the simple text and a variable Example:
 int age = 18;
