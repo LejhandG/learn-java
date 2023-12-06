@@ -93,3 +93,6 @@ public class Operators {
         System.out.println("After *= 2: " + value);
     }
 }
+//Note there is difference between = and == operator
+// = assigns the value of the right operand to the left operand
+// == compares both the left and right operand and sees whether both are equal or not
