@@ -7,5 +7,6 @@ public class Class { //<- this is a class
         //What is an object?
         //Object is an instance of a particular class
         //The most common way of creating a new object is the "new" keyword
+        //Example: String name = new String("hello");
     }
 }
